@@ -1,0 +1,11 @@
+body{
+    margin: 50px;
+}
+.flexible-container{
+    display:flex;
+    padding: 7%;
+}
+img{
+    width: 50%;
+  
+ }

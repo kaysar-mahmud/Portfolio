@@ -1,0 +1,19 @@
+body
+{
+    margin: 0%;
+}
+
+.specialized-head{
+    text-align: center;
+    padding: 8%;
+}
+.parent{
+    display: flex;
+}
+.child{
+  
+   box-shadow: 10px 5px 5px rgb(10, 3, 3);
+   margin: 5%;
+   padding: 50px;
+}
+
